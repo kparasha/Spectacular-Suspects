@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 7d275818-35d9-45a4-aadc-4318cd161676
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/7c88c80c-01de-4f0d-832b-8623c73893be>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: d97b1736-7f1a-4e88-aa59-72317315341f
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -36,3 +36,4 @@
       {}
   InputLines:
     - // @input Slider slider
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

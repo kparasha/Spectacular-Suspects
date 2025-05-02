@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 92798f30-39ce-4072-8281-870765db63c9
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/42278512-1f8d-4dc1-8ffa-8eca8fba1790>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 99e40c26-ce25-4d67-9d14-2300b711278f
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -54,3 +54,4 @@
     - // @input TeachingJoinedUserStateInput teachingJoinedUserStateInput
     - // @input WaitingForMappingStateInput waitingForMappingStateInput
     - // @input SceneObject spinner
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

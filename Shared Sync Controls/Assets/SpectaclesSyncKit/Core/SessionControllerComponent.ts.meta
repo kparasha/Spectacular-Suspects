@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> a0fc29ef-2c94-4839-83c1-ae2e0a5e1993
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/3b36f920-fbe9-40fa-ac78-59d616aa71c5>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: e0309ec9-da5c-44b7-9fce-dde7f5d4f18c
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -53,3 +53,4 @@
     - // @input Component.LocatedAtComponent locatedAtComponent
     - // @input Component.RenderMeshVisual landmarksVisual3d
     - '// @ui {"widget":"group_end"}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

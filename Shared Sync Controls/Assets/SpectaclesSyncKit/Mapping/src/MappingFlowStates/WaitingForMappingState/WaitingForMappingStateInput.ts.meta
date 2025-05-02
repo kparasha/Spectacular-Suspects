@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> ba81ac0b-5f09-4176-b5e3-c02f8ef5924e
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/6a51c48d-d028-4552-9a7c-70ea2a017559>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 5daec30a-5627-4f30-9275-80da362b4f73
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -39,3 +39,4 @@
   InputLines:
     - // @input SceneObject root
     - // @input Component.Text waitingText
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> b504d325-9c98-4d33-8916-04f2c9a2b80b
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/b6422fe6-3ee9-4d75-9f05-bbab0733e307>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 7aa9188a-c679-4a99-8ae1-6846286d4217
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -51,3 +51,4 @@
     - '// @input boolean autoClone = "true"'
     - // @input Asset.Material mainMaterial
     - "// @input string[] propertyNames"
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

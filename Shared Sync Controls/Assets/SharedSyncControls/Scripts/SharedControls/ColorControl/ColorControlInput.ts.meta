@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> d533e346-fcf4-4e48-99f5-5c402fee29b4
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/f81b1bc7-ca31-43c3-bd9c-d34eb7c76b10>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: cf4503e4-9a69-42ae-a5ea-a40e97a20022
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -43,3 +43,4 @@
     - // @input SceneObject root
     - // @input Component.RenderMeshVisual objectMesh
     - "// @input SliderControlInput[] sliderControlsInput"
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

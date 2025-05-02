@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> d2f2f05f-c8bf-4bf7-bc93-bd903a417365
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/ed4ef9f1-0e3a-4ae6-bf52-90101782d1aa>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 4610c5a7-a814-4d84-9161-a9e3b9264183
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -48,3 +48,4 @@
     - // @input SceneObject spinner
     - // @input TextMappingHintParametersInput textMappingHintTimingsInput
     - // @input TutorialParametersInput tutorialParametersInput
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

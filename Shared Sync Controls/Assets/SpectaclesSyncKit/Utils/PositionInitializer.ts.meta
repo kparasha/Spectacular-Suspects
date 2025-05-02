@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 2e75dad6-d4f2-4898-b926-152b227e44c8
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/4c5197d5-b772-421c-8df1-c66a97ed33a1>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: e2794fc9-0b28-488a-9d50-37fc1ddaf85c
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -42,3 +42,4 @@
     - '// @input vec3 positionInFrontOfCamera = "{0, 0, -110}"'
     - '// @input boolean shouldFaceCamera = "false"'
     - '// @input boolean triggerOnlyForMapper = "true"'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 75142845-1554-4cb5-a476-c5aa810a8ab6
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/8409d060-4568-401d-a893-07c0f2fc5568>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 59eaf985-7ee9-4dbc-8e72-f6bc34422a62
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -51,3 +51,4 @@
     - // @input TextMappingHintInput textMappingHintInput
     - // @input TextMappingHintParametersInput textMappingHintTimingsInput
     - // @input TutorialParametersInput tutorialParametersInput
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

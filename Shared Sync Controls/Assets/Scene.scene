@@ -901,6 +901,7 @@
     - !<reference> 84c0a5b1-990c-41ba-98e8-f9ee6bf59f0b
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<Animation/0e784949-8ed5-42fc-9f33-6aae7033e77f>
@@ -2682,6 +2683,7 @@
     - !<reference> 66448b46-8e05-4ff4-940b-0cef6bda1215
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<SceneObject/2279539b-138f-4426-b65f-ba4d07bd52e9>
@@ -3729,6 +3731,7 @@
     - !<reference> accda9a8-d2bc-4f3b-81fd-7a54acde8fbd
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<RenderMeshVisual/267fece6-8db8-46b0-92ef-888517c91be1>
@@ -4826,7 +4829,6 @@
     useSnapping: true
     itemSnapping: true
     worldSnapping: true
-    useFOVFollow: true
     isFollowing: true
     _enableInteractionPlane: true
   ScriptTypesDefault:
@@ -4852,7 +4854,7 @@
       itemSnapping: false
       worldSnapping: false
       showFollowButton: true
-      useFOVFollow: false
+      useFOVFollow: true
       isFollowing: false
       showCloseButton: false
       _enableInteractionPlane: false
@@ -6046,6 +6048,7 @@
     - !<reference> accda9a8-d2bc-4f3b-81fd-7a54acde8fbd
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<SceneObject/44e2fbb6-0c49-46a9-abb2-490886ba3f85>
@@ -7758,7 +7761,6 @@
     useSnapping: true
     itemSnapping: true
     worldSnapping: true
-    useFOVFollow: true
     isFollowing: true
     _enableInteractionPlane: true
   ScriptTypesDefault:
@@ -7784,7 +7786,7 @@
       itemSnapping: false
       worldSnapping: false
       showFollowButton: true
-      useFOVFollow: false
+      useFOVFollow: true
       isFollowing: false
       showCloseButton: false
       _enableInteractionPlane: false
@@ -8286,8 +8288,6 @@
   ShadowFrustumFarClipPlane: 1000.000000
   UseEnvMapFromCamera: false
   EnvMapFromCameraMode: Auto
-  UseEstimation: false
-  EstimationIntensity: 1.000000
   EstimationSharpness: 1.000000
   EnvMapExposure: 1.000000
   EnvMapRotation: 0.000000
@@ -8301,6 +8301,8 @@
   DecayType: None
   DecayLimit: false
   DecayRange: 40.000000
+  UseEstimation: false
+  EstimationIntensity: !<float> 1.000000
 - !<RenderMeshVisual/62329b6b-038e-46b3-bad2-ad71530f04dd>
   PrefabRemaps:
     []
@@ -10246,6 +10248,7 @@
     - !<reference> accda9a8-d2bc-4f3b-81fd-7a54acde8fbd
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<SceneObject/7e0bd445-a9a6-44b6-a73c-852980349605>
@@ -16432,6 +16435,7 @@
     - !<reference> 66448b46-8e05-4ff4-940b-0cef6bda1215
   FlipX: false
   FlipY: false
+  RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
 - !<SceneObject/cdd9cb2d-538d-48c7-9e26-f2adcb6e2fc3>

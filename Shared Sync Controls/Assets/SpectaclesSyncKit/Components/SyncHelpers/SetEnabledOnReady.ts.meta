@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 919db7a0-35e3-4f27-a720-0cd755ea41dd
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/9df27ca3-05ac-4735-af97-d7c712db0601>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: dfbfe16f-988b-4e99-b2d3-0cf5a7aae88b
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -49,3 +49,4 @@
     - '// @ui {"widget":"group_end"}'
     - "// @input SceneObject[] readyObjects"
     - "// @input SceneObject[] notReadyObjects"
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

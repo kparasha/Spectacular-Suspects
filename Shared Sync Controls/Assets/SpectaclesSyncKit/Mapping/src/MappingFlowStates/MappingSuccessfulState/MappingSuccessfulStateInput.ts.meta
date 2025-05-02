@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 24747e05-ec7d-4cb1-a935-01d8c1bffb10
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/5575f773-c03b-4140-ba85-c009b434cc80>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: f4193649-a9b6-4c8e-a610-0776fbc355e2
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -48,3 +48,4 @@
     - // @input Asset.AudioTrackAsset successAudioTrack
     - // @input Component.RenderMeshVisual tickMeshVisual
     - // @input SceneObject tickAnimation
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

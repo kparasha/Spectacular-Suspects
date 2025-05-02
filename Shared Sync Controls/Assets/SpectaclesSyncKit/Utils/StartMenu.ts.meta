@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 2f01fa0c-90ab-4fe6-a05e-ec8cc5b51c10
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/1e50e9f0-1d9b-4ccd-8767-ab97be4eabbf>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 5193a5a7-e328-400d-abe7-05b7c757f289
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -49,3 +49,4 @@
     - '// @input float startMenuDistanceFromUser = "150.0"'
     - '// @input string singlePlayerType = "manual" {"widget":"combobox", "values":[{"label":"Manual", "value":"manual"}, {"label":"Mocked Online (Automatic)", "value":"mocked_online"}]}'
     - "// @input SceneObject[] enableOnSingleplayerNodes"
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> c4c2960c-45e6-4755-9806-078f12030f23
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/b08dbcd3-cf37-4715-a499-16ad34f79d0b>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: f6985535-9076-438b-ab10-ae588c2e172a
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -60,3 +60,4 @@
     - // @input Component.RenderMeshVisual tile
     - // @input Component.Text tutorialTitle
     - // @input Component.Text tutorialText
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 4ddb4b23-90b3-4caa-8ad3-b838e57405ae
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/a15b156c-1c02-4431-a2aa-cf0503d3467b>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: f2d8c150-01b1-4594-8da8-59e29cdb6245
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -60,3 +60,4 @@
     - // @input Component.Text teachingText
     - '// @input float scalingInTime = "0.3" {"hint":"Time in seconds for scaling the object locator In"}'
     - '// @input float scalingOutTime = "0.3" {"hint":"Time in seconds for scaling the object locator Out"}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

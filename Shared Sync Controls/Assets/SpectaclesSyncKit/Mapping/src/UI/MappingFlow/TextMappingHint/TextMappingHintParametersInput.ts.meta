@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 77ed090b-1f0b-44a6-b07e-efa812385887
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/742560ce-b43e-43b3-bf9d-8b8cbf08c458>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 57cb7250-06c0-4ab5-ba98-9bbd9a8ccfae
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -51,3 +51,4 @@
     - '// @input float displayTime = "3.0" {"hint":"The time in seconds during which the text is fully visible"}'
     - '// @input float fadeOutTime = "1.0" {"hint":"The duration in seconds for the text to gradually fade out (via alpha)"}'
     - '// @input float earlyFadeOutTime = "0.3" {"hint":"Timing used to shorten the fade-out time if the state needs to end earlier than expected in seconds"}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

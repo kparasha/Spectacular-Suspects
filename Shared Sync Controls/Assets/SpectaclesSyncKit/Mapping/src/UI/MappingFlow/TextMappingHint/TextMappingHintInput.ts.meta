@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 857c22b5-1728-41c3-8dce-cbe9b72dde23
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/d01f005c-404e-4388-8ae3-2291eff36adf>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 45c67c4b-0afd-4d40-82df-643731a8fdb2
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -42,3 +42,4 @@
     - // @input SceneObject root
     - // @input Component.Text hintTitle
     - // @input Component.Text hintText
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

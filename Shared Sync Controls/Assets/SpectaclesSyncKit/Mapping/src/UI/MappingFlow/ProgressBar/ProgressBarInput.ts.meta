@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 37c19c1e-50da-46d1-affc-4ffcd5a01db2
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/ae5d1530-4675-4c25-8a82-b0b4cb02ceeb>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 9a332ef8-0c23-4e1f-8bf5-bdeb39a9b0ba
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -39,3 +39,4 @@
   InputLines:
     - // @input SceneObject root
     - // @input Component.RenderMeshVisual progressBar
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

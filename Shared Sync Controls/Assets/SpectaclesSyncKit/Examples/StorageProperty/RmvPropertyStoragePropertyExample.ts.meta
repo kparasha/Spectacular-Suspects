@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 8c1aa100-cef0-495e-bc88-b0df5b16a6eb
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/c22af577-0100-4936-a920-8fbc03257ee5>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 916cc92d-5be6-4650-9b2a-a0d4c9e3c691
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -36,3 +36,4 @@
       {}
   InputLines:
     - // @input Component.RenderMeshVisual myRmv
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

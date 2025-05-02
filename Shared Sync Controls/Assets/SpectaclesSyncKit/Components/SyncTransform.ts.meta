@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 0cf6bc95-a242-45c1-a3d9-fab7ea2c04b6
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/eca61c74-6079-46a9-8fae-27fa54d25331>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 84d5b684-30b7-4bc1-a5c8-3ef95d8ac68d
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -63,3 +63,4 @@
     - '// @input int sendsPerSecondLimit = "10"'
     - '// @input boolean useSmoothing = "false"'
     - '// @input float interpolationTarget = "-0.25" {"showIf":"useSmoothing", "showIfValue":true}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

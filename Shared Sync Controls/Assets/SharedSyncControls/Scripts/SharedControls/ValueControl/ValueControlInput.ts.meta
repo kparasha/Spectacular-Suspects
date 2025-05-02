@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 663d3452-1e78-4b1e-b350-99d5d8c6f151
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/03562504-b0da-4efc-82e9-ce937914eb21>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 7c2df859-27f6-47eb-8fcd-4f5d0de17bb5
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -45,3 +45,4 @@
     - // @input Component.Text valueText
     - // @input PinchButton valueUpButton
     - // @input PinchButton valueDownButton
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

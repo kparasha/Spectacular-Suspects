@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 9e919325-b09c-4033-90e1-8006ac05d14e
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/39fdc8d5-0b20-4e9b-8189-d1d9f5bc1cc3>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 9268bfdb-7e48-4070-b547-303eb4418603
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -55,3 +55,4 @@
     - // @input string formatString
     - '// @ui {"widget":"label", "label":"Text to display if value is undefined"}'
     - // @input string altText
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

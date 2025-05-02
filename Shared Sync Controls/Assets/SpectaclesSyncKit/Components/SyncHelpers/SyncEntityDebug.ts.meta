@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> 69c8f8df-8aca-4bf7-9560-5e560a981b56
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/2952d4e8-47a3-4384-ac47-52ae002990a3>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: 126de51a-05c5-47f9-ae9d-f014cd5b3adf
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -60,3 +60,4 @@
     - '// @ui {"widget":"label", "label":"Store Info"}'
     - // @input Component.Text storagePropertyText
     - '// @ui {"widget":"group_end"}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

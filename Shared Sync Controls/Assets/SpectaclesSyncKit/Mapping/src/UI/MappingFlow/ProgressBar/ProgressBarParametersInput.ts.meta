@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> c24a0332-4d7a-4235-9ccc-5e98ffc95604
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/1f672787-ec7a-4e0f-b8ae-ec0ddf8e3354>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: bd4547a4-19fe-4552-a713-d196b16481ea
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -54,3 +54,4 @@
     - '// @input float fadeOutTime = "0.3" {"hint":"The duration in seconds for the progress bar to gradually fade out (via alpha)"}'
     - '// @input float minScaleCoefficient = "0.8" {"hint":"Minimum coefficient for the progress bar size"}'
     - '// @input float maxScaleCoefficient = "1.15" {"hint":"Maximum coefficient for the progress bar size"}'
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

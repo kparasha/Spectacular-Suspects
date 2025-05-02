@@ -9,7 +9,7 @@
     TypeScriptAsset: !<own> c65f2c2b-0d39-4a75-97b2-e0c956668e73
   DependentFiles:
     []
-  ImporterSettings: !<AssetImporterSettings/858fa98d-f3ec-4631-b30e-bcf5b302e42b>
+  ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
   ExtraData:
@@ -21,7 +21,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: cfcc8f8a-7488-477a-95e4-26d736f007cc
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -59,3 +59,4 @@
     - "// @input Component.Text[] hintsText"
     - // @input PinchButton keepLookingButton
     - // @input Component.RenderMeshVisual keepLookingButtonMesh
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
